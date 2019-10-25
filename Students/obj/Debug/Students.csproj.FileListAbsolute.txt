@@ -1,0 +1,73 @@
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\obj\Debug\Students.csprojAssemblyReference.cache
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\obj\Debug\MainWindow.g.cs
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\obj\Debug\App.g.cs
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\obj\Debug\Students_MarkupCompile.cache
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\obj\Debug\Students_MarkupCompile.lref
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\bin\Debug\Students.exe.config
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\bin\Debug\Students.exe
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\bin\Debug\Students.pdb
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\obj\Debug\MainWindow.baml
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\obj\Debug\Students.g.resources
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\obj\Debug\Students.Properties.Resources.resources
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\obj\Debug\Students.csproj.GenerateResource.cache
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\obj\Debug\Students.exe
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\obj\Debug\Students.pdb
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\bin\Debug\DemoDB.db
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\obj\Debug\Students_Content.g.cs
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\bin\Debug\Dapper.dll
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\bin\Debug\System.Data.SQLite.dll
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\bin\Debug\Dapper.xml
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\bin\Debug\System.Data.SQLite.xml
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Bartek\Desktop\ProgramC#\Students\Students\obj\Debug\Students.csproj.CopyComplete
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\bin\Debug\DemoDB.db
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\bin\Debug\Students.exe.config
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\bin\Debug\Students.exe
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\bin\Debug\Students.pdb
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\bin\Debug\Dapper.dll
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\bin\Debug\System.Data.SQLite.dll
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\bin\Debug\Dapper.xml
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\bin\Debug\System.Data.SQLite.xml
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\obj\Debug\Students.csprojAssemblyReference.cache
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\obj\Debug\AddWindow.g.cs
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\obj\Debug\MainWindow.g.cs
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\obj\Debug\App.g.cs
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\obj\Debug\Students_Content.g.cs
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\obj\Debug\Students_MarkupCompile.cache
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\obj\Debug\Students_MarkupCompile.lref
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\obj\Debug\MainWindow.baml
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\obj\Debug\AddWindow.baml
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\obj\Debug\Students.g.resources
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\obj\Debug\Students.Properties.Resources.resources
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\obj\Debug\Students.csproj.GenerateResource.cache
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\obj\Debug\Students.csproj.CopyComplete
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\obj\Debug\Students.exe
+C:\Users\Bartek\Desktop\ProgramC#\Students — kopia\Students\obj\Debug\Students.pdb
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\bin\Debug\DemoDB.db
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\bin\Debug\Students.exe.config
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\bin\Debug\Students.exe
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\bin\Debug\Students.pdb
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\bin\Debug\Dapper.dll
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\bin\Debug\System.Data.SQLite.dll
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\bin\Debug\Dapper.xml
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\bin\Debug\System.Data.SQLite.xml
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\obj\Debug\Students.csprojAssemblyReference.cache
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\obj\Debug\AddWindow.g.cs
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\obj\Debug\MainWindow.g.cs
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\obj\Debug\App.g.cs
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\obj\Debug\Students_Content.g.cs
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\obj\Debug\Students_MarkupCompile.cache
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\obj\Debug\Students_MarkupCompile.lref
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\obj\Debug\AddWindow.baml
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\obj\Debug\MainWindow.baml
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\obj\Debug\Students.g.resources
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\obj\Debug\Students.Properties.Resources.resources
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\obj\Debug\Students.csproj.GenerateResource.cache
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\obj\Debug\Students.csproj.CopyComplete
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\obj\Debug\Students.exe
+C:\Users\Bartek\Desktop\c#student\Students — kopia\Students\obj\Debug\Students.pdb
